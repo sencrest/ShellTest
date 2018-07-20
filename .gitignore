@@ -12,19 +12,8 @@ build/
 target/
 
 # IDEA
-.idea/libraries
-.idea/scopes
-.idea/.name
-.idea/compiler.xml
-.idea/encodings.xml
-.idea/gradle.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-.idea/vcs.xml
-.idea/encodings.xml
+.idea/
 
-*.iml
 *.ipr
 *.iws
 
